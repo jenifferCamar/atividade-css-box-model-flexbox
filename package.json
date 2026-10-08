@@ -1,5 +1,6 @@
 {
   "name": "atividade-css-box-model-flexbox",
   "version": "1.0.0",
-  "private": true
+  "private": true,
+  "description": "Projeto CSS com 20 elementos demonstrando Box Model, 20 propriedades de Flexbox e layout responsivo."
 }
